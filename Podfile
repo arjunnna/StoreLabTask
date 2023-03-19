@@ -4,13 +4,10 @@
 target 'StoreLabTask' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
-  use_frameworks!
-
+  
   pod 'Alamofire', '~> 4.7'
   pod 'Moya', '~> 13.0.0'
   pod 'AlamofireImage', '~> 3.5'
-  pod 'SnapKit'
   pod 'MBProgressHUD'
   pod 'SkeletonView'
   pod 'DZNEmptyDataSet'

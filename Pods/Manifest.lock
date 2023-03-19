@@ -11,7 +11,6 @@ PODS:
     - Result (~> 4.1)
   - Result (4.1.0)
   - SkeletonView (1.30.4)
-  - SnapKit (5.6.0)
 
 DEPENDENCIES:
   - Alamofire (~> 4.7)
@@ -20,7 +19,6 @@ DEPENDENCIES:
   - MBProgressHUD
   - Moya (~> 13.0.0)
   - SkeletonView
-  - SnapKit
 
 SPEC REPOS:
   trunk:
@@ -31,7 +29,6 @@ SPEC REPOS:
     - Moya
     - Result
     - SkeletonView
-    - SnapKit
 
 SPEC CHECKSUMS:
   Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
@@ -41,8 +38,7 @@ SPEC CHECKSUMS:
   Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
   Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
   SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
-  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
 
-PODFILE CHECKSUM: b62178afd3843c259823806ef1d0182cc6dfa8b9
+PODFILE CHECKSUM: 3bb2c62f875c356e6154b377c32b4b28391ddb31
 
 COCOAPODS: 1.11.3
